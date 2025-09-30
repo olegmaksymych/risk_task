@@ -9,7 +9,8 @@
 3. Знайде всі пости, де userId дорівнює **1**.
 4. Збереже ці пости у новий JSON-файл з назвою user_1_posts.json.
 
-    ```python
+```python
+
 import requests  
 import json  
   
